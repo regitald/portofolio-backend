@@ -1,0 +1,32 @@
+{
+  "latestProject": {
+    "question": "What's your latest project?",
+    "answer": "Recently, I’ve been working on a dynamic CMS platform where I built and maintained Laravel-based backend services combined with React/Vue on the admin side. One of the key things I implemented was an AI-assisted JSON template generator using Node.js (Express) to help automatically structure CMS page content. The system supports multilingual content, flexible components, and is consumed by web and mobile apps through REST and GraphQL APIs."
+  },
+  "desiredSalary": {
+    "question": "What's your desired salary?",
+    "answer": "I’m open to discussing salary based on the role scope, responsibilities, and whether the position is remote or region-based. I usually prefer to understand the full package and expectations first, then align on a fair range during the interview process."
+  },
+  "interviewQA": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "I’m a backend-focused engineer who has been working mostly with Laravel to build APIs and CMS platforms that support real business operations. Day to day, I usually handle REST and GraphQL APIs, third-party integrations, and production support. I also collaborate closely with frontend teams and sometimes work on CMS interfaces using React or Vue when needed. I enjoy building systems that are stable, maintainable, and actually useful in production."
+    },
+    {
+      "question": "What's your biggest strength?",
+      "answer": "One of my biggest strengths is problem-solving with a practical mindset. When issues happen — especially in production — I stay calm, check logs, reproduce the issue, and work toward a clean fix instead of a quick patch. I also have strong ownership when handling backend systems, especially APIs and CMS features that other teams depend on."
+    },
+    {
+      "question": "Describe a challenging project.",
+      "answer": "One challenging situation I handled was when working on a CMS and payment-related flow where requirements were still evolving while the timeline was tight. I broke the work into smaller priorities, focused on stabilizing the core API first, and kept close communication with product and QA. I also had to handle async payment notifications and ensure idempotency to avoid duplicate transactions. In the end, the system went live smoothly and remained stable in production."
+    },
+    {
+      "question": "Why do you want to join us?",
+      "answer": "I’m interested because I prefer working on product-driven environments where backend systems directly support real operational workflows. From what I see, your platform focuses on real-world scalability, integrations, and reliability — which aligns closely with the kind of systems I’ve been building. I also see a good opportunity here to continue growing both in backend depth and gradually expanding my fullstack capability."
+    },
+    {
+      "question": "Where do you see yourself in 5 years?",
+      "answer": "In the next few years, I see myself going deeper into backend architecture and system design while still staying hands-on with coding. I’d like to become someone the team can rely on for designing reliable backend systems, and over time possibly mentor more junior engineers while continuing to grow technically."
+    }
+  ]
+}
