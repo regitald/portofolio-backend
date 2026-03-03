@@ -2,7 +2,6 @@
   "name": "kharismatic-portfolio",
   "private": true,
   "type": "module",
- "homepage": "https://regitalisgiani.md",
  "scripts": {
   "dev": "vite",
   "build": "vite build",
