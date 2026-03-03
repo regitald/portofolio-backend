@@ -2,11 +2,14 @@
   "name": "kharismatic-portfolio",
   "private": true,
   "type": "module",
-  "scripts": {
-    "dev": "npx vite",
-    "build": "npx vite build",
-    "preview": "npx vite preview"
-  },
+  "homepage": "https://regitald.github.io/portofolio-backend",
+ "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+},
   "dependencies": {
     "@react-three/drei": "^9.117.0",
     "@react-three/fiber": "^8.17.0",
